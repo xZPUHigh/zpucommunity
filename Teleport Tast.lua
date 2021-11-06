@@ -6,7 +6,7 @@ if ui then
     ui:Destroy()
 end
 local Flux = loadstring(game:HttpGet"https://pastebin.com/raw/XLCrin0T")()
-local win = Flux:Window("ZPU HUB", "Teleport Tast",_G.Color, Enum.KeyCode.RightControl)
+local win = Flux:Window("ZPU รักพี่เอ็์มนะค่าบ ", "Teleport Tast",_G.Color, Enum.KeyCode.RightControl)
 local Teleport = win:Tab("Teleport","http://www.roblox.com/asset/?id=4805639000")
 local placeId = game.PlaceId
 if placeId == 2753915549 then
